@@ -1,1 +1,15 @@
-# Django Brew
+![django-brew-banner](https://github.com/django-brew/.github/assets/317045/2542cafa-29a2-43bf-8991-2e2f461e7121)
+
+<!-- badges -->
+<a href="https://fosstodon.org/@djangobrew"><img src="https://img.shields.io/mastodon/follow/112057295238313342?domain=https://fosstodon.org&style=flat-square&logo=mastodon&label=@djangobrew" /></a>&nbsp;&nbsp;<a href="https://twitter.com/djangobrew"><img src="https://img.shields.io/badge/djangobrew-blue?style=flat-square&logo=twitter" /></a>
+<!-- end badges -->
+
+[Django Brew](https://djangobrew.com) is a fun, caffeine-powered podcast about the Django web framework. ☕️🦄 
+
+We have also [designed Django stickers](https://djangostickers.com) for DjangoCon 2023 and are just generally swell people. ✨
+
+Made by your favorite goofballs [@sjbitcode](https://github.com/sjbitcode) and [@adamghill](https://github.com/adamghill).
+
+<div align="center">
+  <img src="https://github.com/django-brew/.github/assets/317045/9777e125-2e98-4089-b2d1-8df9da49e1ea" alt="Punk Pony" style="height: 200px;" />
+</div>
