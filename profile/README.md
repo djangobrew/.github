@@ -8,9 +8,9 @@
 
 ## Current episodes
 
+- [Episode 2: Sudsy Forms and Spicy Takes](https://djangobrew.com/episodes/15044433-episode-2-sudsy-forms-and-spicy-takes)
 - [Episode 1: Fried-green introverts](https://djangobrew.com/episodes/14650534-episode-1-fried-green-introverts)
 - [Episode 0: Intros, memes, and tater-tots](https://djangobrew.com/episodes/14648511-episode-0-intros-memes-and-tater-tots)
-- [Episode 2: Sudsy Forms and Spicy Takes](https://djangobrew.com/episodes/15044433-episode-2-sudsy-forms-and-spicy-takes)
 
 We have also [designed Django stickers](https://djangostickers.com) for DjangoCon 2023 and are just generally swell people. ✨
 
