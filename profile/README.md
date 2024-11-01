@@ -13,7 +13,7 @@
 - [Episode 1: Fried-green introverts](https://djangobrew.com/episodes/14650534-episode-1-fried-green-introverts)
 - [Episode 0: Intros, memes, and tater-tots](https://djangobrew.com/episodes/14648511-episode-0-intros-memes-and-tater-tots)
 
-We have also [designed Django stickers](https://djangostickers.com) for DjangoCon 2023 and are just generally swell people. ✨
+We have also [designed Django stickers](https://djangostickers.com) for DjangoCon US 2023 and 2024 and are just generally swell people. ✨
 
 Made by your favorite goofballs [@sjbitcode](https://github.com/sjbitcode) and [@adamghill](https://github.com/adamghill).
 
