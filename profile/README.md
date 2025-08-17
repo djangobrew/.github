@@ -8,6 +8,7 @@
 
 ## Current episodes
 
+- [Episode 6: Celebrating 20 Years of Django](https://djangobrew.com/episodes/17681730-episode-6-celebrating-20-years-of-django)
 - [Episode 5: Chocolately Django REST APIs](https://djangobrew.com/episodes/17149995-episode-5-chocolately-django-rest-apis)
 - [Episode 4: Spoiler Alert: DjangoCon US Recap, Open Source Maintenance, and Other Spooky Stories](https://djangobrew.com/episodes/16285007-episode-4-spoiler-alert-djangocon-us-recap-open-source-maintenance-and-other-spooky-stories)
 - [Episode 3: Elusive Coffee in the Multiverse of PyCon](https://djangobrew.com/episodes/15337226-episode-3-elusive-coffee-in-the-multiverse-of-pycon)
